@@ -1,0 +1,69 @@
+h1{
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+p{
+    text-transform: capitalize;
+    font-size: x-large;
+}
+.first__div{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.second__div{
+    display: flex;  
+}
+.third__div{
+display: flex;
+}
+.fourth__div{
+display: flex;
+}
+img{
+    height: 12rem;
+    width: 12rem;
+   
+}
+.img1{
+    height: 25rem;
+    width: 100%;
+    padding-left: 0rem;
+}
+.div1{
+padding-left: 5rem;
+}
+.div2{
+    padding-left: 5rem;
+}
+.div3{
+    padding-left: 5rem;
+}
+.div4{
+    padding-left: 5rem;
+}
+.div5{
+    padding-left: 5rem;
+}
+.div6{
+    padding-left: 5rem;
+}
+.div6{
+    padding-left: 5rem;
+}
+.div7{
+    padding-left: 5rem;
+}
+.div8{
+    padding-left: 5rem;
+}
+.div9{
+    padding-left: 5rem;
+}
+footer{
+    background-color: #80e56f;
+    font-size: x-large;
+    text-align: center;
+    height: 6rem;
+    margin-top: 2rem;
+}
